@@ -2,6 +2,8 @@
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v3.0 release](https://github.com/11ty/eleventy/releases/tag/v3.0.0)).
 
+Adapted to use Liquid rather than Nunjucks templates.
+
 ## Getting Started
 
 * [Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
@@ -80,11 +82,7 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
 
 ## Demos
 
-- [Netlify](https://eleventy-base-blog.netlify.app/)
-- [Vercel](https://demo-base-blog.11ty.dev/)
-- [Cloudflare Pages](https://eleventy-base-blog-d2a.pages.dev/)
-- [Remix on Glitch](https://glitch.com/~11ty-eleventy-base-blog)
-- [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
+None as of yet, see the demos on [the original repo](https://github.com/11ty/eleventy-base-blog?tab=readme-ov-file#demos)
 
 ## Deploy this to your own site
 
